@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestaurantRaterApp</string>
+
+    <string-array name="dish_types">
+        <item>Entrée</item>
+        <item>Main Course</item>
+        <item>Dessert</item>
+        <item>Beverage</item>
+    </string-array>
+</resources>
