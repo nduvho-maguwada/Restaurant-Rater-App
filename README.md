@@ -1,1 +1,1 @@
-the application was developed by Nduvho Maguwada 402306070
+This application was developed by Nduvho Maguwada 402306070
