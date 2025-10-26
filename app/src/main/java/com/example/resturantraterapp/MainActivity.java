@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Load default fragment
+    
         getSupportFragmentManager().beginTransaction()
                 .replace(R.id.fragment_container, new RestaurantFragment())
                 .commit();
